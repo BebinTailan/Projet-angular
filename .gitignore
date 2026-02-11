@@ -1,0 +1,14 @@
+# Node (Frontend)
+**/node_modules/
+**/dist/
+**/.angular/
+
+# Java (Backend)
+**/target/
+**/.gradle/
+**/build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
