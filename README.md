@@ -17,11 +17,14 @@ Depuis le dossier `demo/` :
 
 ```sh
 
-
 cd demo
 .\mvnw.cmd spring-boot:run
 
+puis pour lancer le front c'est:
 
+cd front-books
+
+dans un nouveau terminal
 Puis ouvrir http://localhost:4200
 
 npm ng serve
