@@ -1,4 +1,4 @@
-# Projet `front-books` / `demo`
+# Projet `Angular` / `demo`
 
 Ce dépôt contient deux parties principales :
 
@@ -13,7 +13,7 @@ Le backend est un projet Spring Boot (Java) qui expose une API REST (ex : `/ap
 
 ### Installation
 
-Depuis le dossier `demo/` :
+Il faut mvn npm et @angular.cli :
 
 ```sh
 
